@@ -19,6 +19,8 @@ Sequoia theme adapted to APP
 
 ### Moonlight
 ![Moonlight](https://github.com/Sequoia-Theme/Mattermost/blob/main/moonlight.png?raw=true)
+
+### Monochrome
 ![Moonlight](https://github.com/Sequoia-Theme/Mattermost/blob/main/monochrome.png?raw=true)
 
 
