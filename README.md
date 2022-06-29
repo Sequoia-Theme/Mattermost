@@ -10,7 +10,7 @@ Sequoia theme adapted to APP
 - Select Display from Sidebar
 - Select Theme > Edit
 - Select Custom Themes
-- Copy the content from .josn files
+- Copy the content from .json files
 
 
 # Available themes:
